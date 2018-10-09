@@ -1,5 +1,6 @@
 
 *.jar
 *.swp
-logs
+logs*
 *.log
+crash-reports
